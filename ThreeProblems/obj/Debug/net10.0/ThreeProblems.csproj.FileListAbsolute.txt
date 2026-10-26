@@ -12,3 +12,4 @@ C:\Users\chase\OneDrive\CSCI1250\Lab06-three-problems\ThreeProblems\obj\Debug\ne
 C:\Users\chase\OneDrive\CSCI1250\Lab06-three-problems\ThreeProblems\obj\Debug\net10.0\ThreeProblems.pdb
 C:\Users\chase\OneDrive\CSCI1250\Lab06-three-problems\ThreeProblems\obj\Debug\net10.0\ThreeProblems.genruntimeconfig.cache
 C:\Users\chase\OneDrive\CSCI1250\Lab06-three-problems\ThreeProblems\obj\Debug\net10.0\ref\ThreeProblems.dll
+C:\Users\chase\OneDrive\CSCI1250\Lab06-three-problems\ThreeProblems\obj\Debug\net10.0\ThreeProblems.sourcelink.json
